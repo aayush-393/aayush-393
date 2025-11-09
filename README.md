@@ -2,10 +2,6 @@
 
 # 👋 Hi, I'm Aayush!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=flat-square&logo=linkedin)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2.svg?style=flat-square&logo=twitter)](https://twitter.com)
-[![Discord](https://img.shields.io/badge/Discord-Join-7289DA.svg?style=flat-square&logo=discord)](https://discord.com)
-
 </div>
 
 ## 🚀 About Me
@@ -46,36 +42,13 @@ class Aayush:
 </tr>
 </table>
 
-## 🌟 Repository Highlights
-- ✨ Side projects & experiments  
-- 🧪 AI prototypes  
-- ⚡ Tiny tools with big purpose  
-- 📦 Reusable utilities  
-
----
-
-### 🌼 Vibes
+### 😎 Vibes
 <div align="center">
 
 > *"Busy building the solutions I wish existed"*
 
 I believe in creating tools that are:
 `Simple` • `Useful` • `Magical` ✨
-
-</div>
-
-## 🤝 Let's Connect & Collaborate!
-
-<div align="center">
-
-Are you passionate about:
-`AI` • `Agents` • `Computer Vision` • `Discord Bots`?
-
-Let's build something amazing together! Feel free to:
-- 💬 Start a discussion
-- 🔧 Contribute to projects
-- 🤝 Explore collaboration opportunities
-- 💡 Share ideas and feedback
 
 </div>
 
